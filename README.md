@@ -50,11 +50,11 @@ This project predicts housing prices using linear regression. The model is train
 
 ---
 
-## Future Improvements
+## Sample UI
 
-- Add advanced regression models like Ridge or Lasso.
-- Include more features like proximity to schools or amenities.
-- Deploy the model using a web application.
+Here’s an example of the application’s interface:
+
+![Sample UI](Housing_Price.png)
 
 ---
 
