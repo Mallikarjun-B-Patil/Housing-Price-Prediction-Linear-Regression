@@ -46,7 +46,7 @@ This project predicts housing prices using linear regression. The model is train
 ## Results
 
 - **RMSE**: _(1324506)_
-- **R² Score**: _(0.65)_
+- **R² Score**: _(0.85)_
 
 ---
 
